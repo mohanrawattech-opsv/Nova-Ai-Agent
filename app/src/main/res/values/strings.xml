@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Nova JARVIS</string>
+    <string name="accessibility_description">Allows Nova JARVIS to click visible controls and capture screenshots when you explicitly request it.</string>
+</resources>
